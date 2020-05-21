@@ -1,0 +1,8 @@
+syntax = "proto2";
+package sensor_msgs.msgs;
+
+message NRF
+{
+  required int64 time_usec       	= 1;
+  repeated float data		          = 2;
+}

@@ -13,7 +13,7 @@ This is a gazebo simulation how drone flies to each nodes to collect data. This 
 
 #### Drone Communication
 
-![]()
+![](resources/drone_communication.png)
 
 This is the terminal output of how communiction is initiated and terminated in each node.
 
